@@ -1,0 +1,8 @@
+{
+  "name": "javascript-basics",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node 01_basics/01_variables.js"
+  }
+}
