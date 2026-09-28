@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "node 01_basics/01_variables.js"
+    "start": "node 01_basics/03_conversionOperation.js"
   }
 }
